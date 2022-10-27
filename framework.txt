@@ -1,0 +1,6 @@
+make c an individual choice for operator buttons
+make a temp value that stores and displayes buttons pressed on the calc(dom manipulation)
+bind a value for each html button and then read the value in js with query selector
+disable decimal button after one use per variable 
+create clear button that resets the temp value and expression so far
+console log a side by side expression value that need to be evaluated 

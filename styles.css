@@ -66,6 +66,7 @@ body {
   .button.c {  
     color: #D95D4E;  
     background: #404D5E;  
+    
   }  
   .button:hover {  
     background: orange;  
