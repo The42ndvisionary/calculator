@@ -1,6 +1,6 @@
-let a=prompt("enter first num");
-let b=prompt("enter second num");
-let c=prompt("choose and operation. + - * /");
+let a="";
+let b="";
+let c="";
 let opertator= c;
 num1 = parseInt(a);
 num2 = parseInt(b);
