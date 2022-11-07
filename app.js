@@ -55,4 +55,13 @@ function operate(operator,num1,num2){
         }
     }
     
-    operate(opertator,num1,num2);
+
+tempValue=500;
+   displayValue=document.getElementById("input");
+   var displayValue1=document.createElement("p");
+displayValue1.innerText=tempValue;
+displayValue.append(displayValue1);
+
+   
+    
+    //operate(opertator,num1,num2);
